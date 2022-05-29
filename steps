@@ -1,0 +1,23 @@
+Problem Statement: Create node.js Application which serves a static website.
+STEPS$$$$$$$
+1st
+step – Install visual studio code(vs code) editor
+Cammand -$ sudo snap install --classic code
+2
+nd
+step – Install NODE
+cammand -Then install Node.js:sudo apt install nodejs
+Check that the install was successful by querying node for its version number:node -v
+Output
+v10.19.0
+If the package in the repositories suits your needs, this is all you need to do to get set up with Node.js. In
+most cases, you’ll also want to also install npm, the Node.js package manager. You can do this by
+installing the npm package with apt:
+sudo apt install npm
+This will allow you to install modules and packages to use with Node.js.
+3rdstep – Install EXPRESS.JS
+command- -npm install -g express
+- express --version
+-sudo apt install node -express
+--sudo apt install node -generation
+Check version – express --version
